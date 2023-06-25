@@ -4,14 +4,66 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="feab1ab6-64c9-4574-b410-015f5ae9d5c4" name="Changes" comment="setting">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ClassCounter.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Counter.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+    <list default="true" id="feab1ab6-64c9-4574-b410-015f5ae9d5c4" name="Changes" comment="start project">
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/G.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/award01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/award02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/award03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/award05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/chef.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/findus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/gallery01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/gallery02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/gallery03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/gallery04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/gericht.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/knife.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/laurels.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/meal.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/overlaybg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/spoon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/spoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/welcome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/FooterOverlay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/FooterOverlay.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Newsletter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Newsletter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Menuitem/MenuItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Menuitem/MenuItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SubHeading/SubHeading.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/images.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/AboutUs/AboutUs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/AboutUs/AboutUs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/Chef/Chef.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/Chef/Chef.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/Findus/FindUs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/Footer/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/Footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/Gallery/Gallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/Gallery/Gallery.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/Header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/Intro/Intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/Intro/Intro.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/Laurels/Laurels.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/Laurels/Laurels.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/Menu/SpecialMenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/Menu/SpecialMenu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +116,7 @@
       <workItem from="1687518500178" duration="828000" />
       <workItem from="1687675694477" duration="86000" />
       <workItem from="1687677028150" duration="966000" />
-      <workItem from="1687717461749" duration="523000" />
+      <workItem from="1687717461749" duration="577000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -98,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687518707934</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="start project">
+      <option name="closed" value="true" />
+      <created>1687718002009</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687718002009</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +168,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update" />
     <MESSAGE value="setting" />
-    <option name="LAST_COMMIT_MESSAGE" value="setting" />
+    <MESSAGE value="start project" />
+    <option name="LAST_COMMIT_MESSAGE" value="start project" />
   </component>
 </project>
